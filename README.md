@@ -26,10 +26,10 @@ UNIVERSEH brings together 5 HEIs uniting over 130 977 students, 13 030 staff and
 - Open Educational and Open Science and Citizen Science resources
 
 ## Work program
-- Work packages (WPs) and related activities
+Work packages (WPs) and related activities
 - WP1: General Management and Coordination
 - WP2: Mobility and Multilingualism
-- WP3: Interdisciplinary and cross-sectoral curricula
+- [WP3](WPs/WP3.md): Interdisciplinary and cross-sectoral curricula
 - WP4: Innovative pedagogical models
 - WP5: Entrepreneurship and Innovation
 - WP6: Equity, Inclusion and Diversity
