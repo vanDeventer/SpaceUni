@@ -1,7 +1,7 @@
 # [AKADEMIA GORNICZO-HUTNICZA IM. STANISLAWA STASZICA W KRAKOWIE](http://www.agh.edu.pl/en)
 
 ## Contact persons
-- Prof. Jerzy Lis [cad@agh.edu.pl](mailto:cad@agh.edu.pl)
+- [Prof. Jerzy Lis](https://historia.agh.edu.pl/wiki/Jerzy_Lis) [cad@agh.edu.pl](mailto:cad@agh.edu.pl)
 	- Vice-Rector for Cooperation
 - Marta Forys mforys@agh.edu.pl +48 126174783
 - Maria Leszczynska marial@agh.edu.pl +48 126174549
