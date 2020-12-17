@@ -1,6 +1,7 @@
 # WP3: Interdisciplinary and cross-sectoral curricula
-- Work package leader: UT
+- Work package leader: Univeristy of Toulouse, UT
 - Durations: M1-M36 (36 months)
+- Page 106
 
 ## Description of the activities (what, how, where) and division of work
 Present a concise overview of the work (planned tasks). Be specific, give a short name for each task and number them. Show who is responsible for which tasks (coordinator (COO), beneficiaries (BEN), linked third parties (LTP)).
@@ -145,13 +146,15 @@ Each partner will seek to provide funding to set up a joint supervised doctorate
 **7-year vision**. Extensive joint research and doctoral interaction involving other funding mechanisms
 
 ## Deliverables
-- D3.1 **Consortium course and competence overview related to space and humanities**: Matrix (with structure as indicated in Fig. 3 but significantly more information) completed with list and concise description of partner courses and competences for each cell (or courses missing presently). In English. ==M9==
+- D3.1 **Consortium course and competence overview related to space and humanities**: Matrix (with structure as indicated in Fig. 3 but significantly more information) completed with list and concise description of partner courses and competences for each cell (or courses missing presently). In English. **M9**
 - D3.2 **Identification of future needs for student competences**: Analysis of stakeholder questionnaires identifying key competences to be acquired by students in future space-related activities. In English. **M12**
-- D3.3
-- D3.4
-- D3.5
-- D3.6
-- D3.7
-- D3.8
-- D3.9
-- D3.10
+- D3.3 **Design of 10 new courses**: Description of design of 10 new courses. In English. **M24**
+- D3.4 **‌Common diploma supplement**: Model of common diploma supplement (in English and if necessary other consortium languages). **M18**
+- D3.5 **‌Implement 10 new courses**: Report on implementation of 10 new courses. In English. **M36**
+- D3.6 **‌Example video course**: A video illustrating one of the courses and openly available. In English. **M33**
+- D3.7 **‌Common semester design**: Definition of proposed courses for a common semester In English. **M27**
+- D3.8 **‌Overview of proposed common bachelor's programs**: Overview of proposed new joint bachelor courses and description of any actions already carried out in working towards this objective. In English **M36**
+- D3.9 **‌Overview of proposed joint master's programs**: Overview of suggested new joint masters courses and description of any actions already carried out in working towards this objective. In English. **M36**
+- D3.10 **‌Progress report for joint doctorates and joint doctoral programs.**: Concise description of joint doctorates in progress / foreseen. Report on actions carried out concerning joint doctoral programs. It will be made in English. **M36**
+
+*There are two table in the document of actions*

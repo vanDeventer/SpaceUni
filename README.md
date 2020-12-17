@@ -32,7 +32,7 @@ Work packages (WPs) and related activities
 - WP1: General Management and Coordination
 - WP2: Mobility and Multilingualism
 - [WP3](WPs/WP3.md): Interdisciplinary and cross-sectoral curricula
-- WP4: Innovative pedagogical models
+- [WP4](WPs/WP4.md): Innovative pedagogical models
 - WP5: Entrepreneurship and Innovation
 - WP6: Equity, Inclusion and Diversity
 - WP7: Sustainability and Dissemination
